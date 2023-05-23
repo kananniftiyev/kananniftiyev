@@ -11,7 +11,7 @@ I'm Kanan, a dedicated and enthusiastic student with a passion for full-stack de
 <br>
 
 <a href="https://github.com/kananniftiyev/django_news_website">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kananniftiyev&repo=django_news_website" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kananniftiyev&repo=django_news_website&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
