@@ -1,5 +1,3 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
-
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kanan-niftiyev-0b9190218/)
 
@@ -13,7 +11,7 @@ I'm Kanan, a dedicated and enthusiastic student with a passion for full-stack de
 <br>
 
 <a href="https://github.com/kananniftiyev/django_news_website">
-  <img align="center" style="margin:0.5rem" src="https://github.com/kananniftiyev/django_news_website" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kananniftiyev&repo=django_news_website" />
 </a>
 
 <br>
