@@ -15,18 +15,18 @@
 </p>
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/kananniftiyev)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/kananniftiyev)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/kananniftiyev)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/kananniftiyev)
+[![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python)](https://github.com/kananniftiyev)
+[![Java](https://img.shields.io/badge/java-white?style=for-the-badge&logo=openjdk)](https://github.com/kananniftiyev)
+[![SQL](https://img.shields.io/badge/sql-white?style=for-the-badge&logo=mysql)](https://github.com/kananniftiyev)
+[![Bash](https://img.shields.io/badge/bash-white?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/kananniftiyev)
 
 ### Technologies & Frameworks
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/kananniftiyev)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/kananniftiyev)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/kananniftiyev)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/kananniftiyev)
-[![MySql](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/kananniftiyev)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)](https://github.com/kananniftiyev)
+[![Django](https://img.shields.io/badge/django-white?style=for-the-badge&logo=django)](https://github.com/kananniftiyev)
+[![HTML5](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5)](https://github.com/kananniftiyev)
+[![CSS3](https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3)](https://github.com/kananniftiyev)
+[![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker)](https://github.com/kananniftiyev)
+[![MySql](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql)](https://github.com/kananniftiyev)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=PostgreSQL)](https://github.com/kananniftiyev)
 
 
 
