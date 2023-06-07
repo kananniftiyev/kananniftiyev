@@ -1,4 +1,4 @@
-<h1 align="center">Hi, there! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, there! <img src="" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -33,23 +33,23 @@
 
 <details>
 <p align="center">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/kananniftiyev">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kananniftiyev&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/kananniftiyev">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kananniftiyev&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/kananniftiyev">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kananniftiyev&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/kananniftiyev">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kananniftiyev&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
 
 <p align="center">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/kananniftiyev">
     <img src="https://komarev.com/ghpvc/?username=kananniftiyev&color=blue&style=flat)" />
   </a>
 </p>
