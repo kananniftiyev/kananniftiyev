@@ -1,62 +1,66 @@
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kanan-niftiyev-0b9190218/)
+<h1 align="center">Hi, there! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
-Hey there! 👋
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Kanan.<br>
+        I'm Kanan, a dedicated and enthusiastic student with a passion for full-stack development. As a senior full-stack engineer in the making, I'm on a mission to expand my skills and knowledge in both front-end and back-end technologies. With a creative mindset and a self-proclaimed love for design, I strive to bridge the gap between user-focused designs and seamless functionality.<br>
+    </i><br>
+    <a href="https://www.linkedin.com/in/kanan-niftiyev-0b9190218">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="https://leetcode.com/kananniftiyev010/">
+        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
+    </a>
+</p>
 
-I'm Kanan, a dedicated and enthusiastic student with a passion for full-stack development. As a senior full-stack engineer in the making, I'm on a mission to expand my skills and knowledge in both front-end and back-end technologies. With a creative mindset and a self-proclaimed love for design, I strive to bridge the gap between user-focused designs and seamless functionality.
+### Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/kananniftiyev)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/kananniftiyev)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/kananniftiyev)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/kananniftiyev)
+
+### Technologies & Frameworks
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/kananniftiyev)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/kananniftiyev)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/kananniftiyev)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/kananniftiyev)
+[![MySql](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/kananniftiyev)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)](https://github.com/kananniftiyev)
 
 
-## 📌 Pinned Repositories
 
-<br>
-
-<a href="https://github.com/kananniftiyev/django_news_website">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kananniftiyev&repo=django_news_website&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/kananniftiyev">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kananniftiyev&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/kananniftiyev">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kananniftiyev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-<br>
-
-## 💼 Skills
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
 <details>
-<summary>More Skills</summary>
-<br>
-
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kananniftiyev&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kananniftiyev&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kananniftiyev&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kananniftiyev&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
 </details>
+
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="https://komarev.com/ghpvc/?username=kananniftiyev&color=blue&style=flat)" />
+  </a>
+</p>
+<!--
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
