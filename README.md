@@ -25,8 +25,6 @@
 [![MySql](https://img.shields.io/badge/mysql-9cf?style=for-the-badge&logo=mysql)](https://github.com/kananniftiyev)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9cf?style=for-the-badge&logo=PostgreSQL)](https://github.com/kananniftiyev)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 <details>
 <p align="center">
   <a href="https://github.com/kananniftiyev">
@@ -39,7 +37,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kananniftiyev&theme=transparent" />
     </a>
 </p>
-    <details>
+</details>
 <p align="center">
   <a href="https://github.com/kananniftiyev">
     <img src="https://komarev.com/ghpvc/?username=kananniftiyev&color=blue&style=flat)" />
