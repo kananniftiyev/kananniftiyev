@@ -27,8 +27,6 @@
 
 
 
-
-<details>
 <p align="center">
   <a href="https://github.com/kananniftiyev">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kananniftiyev&theme=transparent" />
@@ -40,7 +38,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kananniftiyev&theme=transparent" />
     </a>
 </p>
-</details>
 
 <p align="center">
   <a href="https://github.com/kananniftiyev">
