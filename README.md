@@ -27,17 +27,7 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/kananniftiyev">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kananniftiyev&theme=transparent" />
-  </a>
-  <a href="https://github.com/kananniftiyev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kananniftiyev&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/kananniftiyev">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kananniftiyev&theme=transparent" />
-    </a>
-</p>
+<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=kananniftiyev&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
 
 <p align="center">
   <a href="https://github.com/kananniftiyev">
