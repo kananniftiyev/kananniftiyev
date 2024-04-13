@@ -1,45 +1,66 @@
-<h1 align="center">Hi, there!👋</h1>
+# Hello there 👋
 
-<p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm Kanan.<br>
-    </i><br>
-    <a href="https://www.linkedin.com/in/kanan-niftiyev-0b9190218">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-</p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kananniftiyev.kananniftiyev)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-### Languages
-[![Python](https://img.shields.io/badge/python-9cf?style=for-the-badge&logo=python)](https://github.com/kananniftiyev)
-[![Java](https://img.shields.io/badge/java-9cf?style=for-the-badge&logo=openjdk)](https://github.com/kananniftiyev)
-[![SQL](https://img.shields.io/badge/sql-9cf?style=for-the-badge&logo=mysql)](https://github.com/kananniftiyev)
-[![Go](https://img.shields.io/badge/go-9cf?style=for-the-badge&logo=go)](https://github.com/kananniftiyev)
-[![Bash](https://img.shields.io/badge/bash-9cf?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/kananniftiyev)
+```rust
+struct SoftwareEngineer {
+    name: &'static str,
+    role: &'static str,
+    language_spoken: Vec<&'static str>,
+}
 
-### Technologies & Frameworks
-[![Django](https://img.shields.io/badge/django-9cf?style=for-the-badge&logo=django)](https://github.com/kananniftiyev)
-[![Spring](https://img.shields.io/badge/spring-9cf?style=for-the-badge&logo=spring)](https://github.com/kananniftiyev)
-[![HTML5](https://img.shields.io/badge/html5-9cf?style=for-the-badge&logo=html5)](https://github.com/kananniftiyev)
-[![CSS3](https://img.shields.io/badge/css3-9cf?style=for-the-badge&logo=css3)](https://github.com/kananniftiyev)
-[![MySql](https://img.shields.io/badge/mysql-9cf?style=for-the-badge&logo=mysql)](https://github.com/kananniftiyev)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9cf?style=for-the-badge&logo=PostgreSQL)](https://github.com/kananniftiyev)
+impl SoftwareEngineer {
+    /// Creates a new instance of `SoftwareEngineer`.
+    fn new() -> SoftwareEngineer {
+        SoftwareEngineer {
+            name: "Kanan Niftiyev",
+            role: "Software Engineer",
+            language_spoken: vec!["en_US", "tr_TR", "az_AZ"],
+        }
+    }
 
-<details>
-<p align="center">
-  <a href="https://github.com/kananniftiyev">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kananniftiyev&theme=transparent" />
-  </a>
-  <a href="https://github.com/kananniftiyev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kananniftiyev&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/kananniftiyev">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kananniftiyev&theme=transparent" />
-    </a>
-</p>
-</details>
-<p align="center">
-  <a href="https://github.com/kananniftiyev">
-    <img src="https://komarev.com/ghpvc/?username=kananniftiyev&color=blue&style=flat)" />
-  </a>
-</p>
+    fn say_hi(&self) {
+        println!("Hello there! I'm {name}, a {role}. Thanks for stopping by! I hope you'll find some of my work interesting.", name = self.name, role = self.role);
+    }
+}
+
+fn main() {
+    let me = SoftwareEngineer::new();
+    me.say_hi();
+}
+```
+
+## 📝 Blogs
+
+- Coming Soon
+
+## 🔧 Technologies & Tools
+
+**Cloud Services:**
+
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
+
+**Programming Languages:**
+
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
+![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+
+
+**Tools and Services:**
+
+![Maven](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=maven&logoColor=white&color=6aa6f8)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=6aa6f8)
+
+
+<!-- ## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kananniftiyev&hide=c%2B%2B,c,css,html,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e%22%20
+" />
+</a>
