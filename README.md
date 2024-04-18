@@ -3,32 +3,30 @@
 ![visitors](https://komarev.com/ghpvc/?username=kananniftiyev)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-```rust
-struct SoftwareEngineer {
-    name: &'static str,
-    role: &'static str,
-    language_spoken: Vec<&'static str>,
+```go
+type SoftwareEngineer struct {
+    name           string
+    role           string
+    languagesSpoken []string
 }
 
-impl SoftwareEngineer {
-    /// Creates a new instance of `SoftwareEngineer`.
-    fn new() -> SoftwareEngineer {
-        SoftwareEngineer {
-            name: "Kanan Niftiyev",
-            role: "Software Engineer",
-            language_spoken: vec!["en_US", "tr_TR", "az_AZ"],
-        }
-    }
-
-    fn say_hi(&self) {
-        println!("Hello there! I'm {name}, a {role}. Thanks for stopping by! I hope you'll find some of my work interesting.", name = self.name, role = self.role);
+func NewSoftwareEngineer() SoftwareEngineer {
+    return SoftwareEngineer{
+        name:           "Kanan Niftiyev",
+        role:           "Software Engineer",
+        languagesSpoken: []string{"en_US", "tr_TR", "az_AZ"},
     }
 }
 
-fn main() {
-    let me = SoftwareEngineer::new();
-    me.say_hi();
+func (s SoftwareEngineer) SayHi() {
+    fmt.Printf("Hello there! I'm %s, a %s. Thanks for stopping by! I hope you'll find some of my work interesting.\n", s.name, s.role)
 }
+
+func main() {
+    me := NewSoftwareEngineer()
+    me.SayHi()
+}
+
 ```
 
 ## 📝 Blogs
