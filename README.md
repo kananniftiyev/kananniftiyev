@@ -57,7 +57,7 @@ func main() {
 
 
 
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kananniftiyev&hide=c%2B%2B,c,css,html,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e%22%20
 " />
 </a>
