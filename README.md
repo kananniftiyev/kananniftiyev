@@ -3,7 +3,7 @@
 ## About me
 
 ![gopher dancing](./dancing-gopher.gif)
-![rust_gif](./rust.png)
+![cpp_gif](./cpp.png)
 
 ## The Vibe
 🦫relax, write some code, and enjoy life.
